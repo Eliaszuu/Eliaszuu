@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Eliaszuu i like to code
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 📫 How to reach me (call Me)
-- ⚡ Fun fact: I love coding
+- 👀 I’m interested in Flutter
+- ⚡ Fun fact: Intellij > VSC
 
 <!---
 Eliaszuu/Eliaszuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
